@@ -1,1 +1,1 @@
-# fullstackopen-part0
+# FullstackOpen exercises - part0
